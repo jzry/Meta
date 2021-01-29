@@ -1,6 +1,8 @@
 TRANSACTION / BLOCKCHAIN
 "JPay"
 
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
 Purpose:
 
 Connect computer networks and transaction ID's to connect buyers / sellers simulating a blockchain network.
@@ -47,5 +49,4 @@ Files:
 
 Disclaimer:
 
-This blockchain does not have the functionality of "mining" coins like the bitcoin core does.
-This program is meant to replicate a block chain on a miniature scale, with the ability to keep track of payments made to and from individual nodes. Digital asset given comes under the condition that it is prefabricated.
+This program is meant to replicate a block chain on a miniature scale, with the ability to keep track of payments made to and from individual nodes. This blockchain does not have the functionality of "mining" coins like the bitcoin core does, so units are prefabricated and not "mined".
