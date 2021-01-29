@@ -39,13 +39,13 @@ Goals:
 
 Files:
 
-menu.c = commands.
-net_connect.c = network connector.
-origin.c = commands for origin block.
-ledger.c = digital ledger information.
+- start.c = startup booter.
+- user.c = user commands.
+- blockchain.c = commands for blockchain / node.
 
 ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
 Disclaimer:
 
 This blockchain does not have the functionality of "mining" coins like the bitcoin core does.
+This program is meant to replicate a block chain on a miniature scale, with the ability to keep track of payments made to and from individual nodes. Digital asset given comes under the condition that it is prefabricated.
