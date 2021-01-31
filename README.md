@@ -1,4 +1,4 @@
-![alt text](https://github.com/jzry/JPay/blob/main/white.png?raw=true)
+![alt text](https://github.com/jzry/JPay/blob/main/Blockchain/white.png)
 
 ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
